@@ -5,7 +5,12 @@ Epidemiology.
 
 Contents
 --------
-Under development
+Utilities:
+-"NetDrop" - A simple function for downloading data files from web sources
+
+Dependencies
+------------
+requests
 
 
 Versions
@@ -20,6 +25,6 @@ Version Notes
 
 Why 'Pumphandle'?
 -----------------
-The repository name is a reference to John Snow[1] and the Broad Street Pump
+The repository name is a reference to (John Snow)[1] and the Broad Street Pump
 
 [1]: http://en.wikipedia.org/wiki/John_Snow_(physician) "John Snow"
