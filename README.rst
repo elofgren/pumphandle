@@ -6,7 +6,9 @@ Epidemiology.
 Contents
 --------
 Utilities:
--"NetDrop" - A simple function for downloading data files from web sources
+
+- "NetDrop": A simple function for downloading data files from web sources
+
 
 Dependencies
 ------------
