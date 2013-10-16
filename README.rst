@@ -27,4 +27,4 @@ Version Notes
 
 Why 'Pumphandle'?
 -----------------
-The repository name is a reference to 'John Snow <http://en.wikipedia.org/wiki/John_Snow_(physician)> and the Broad Street Pump
+The repository name is a reference to 'John Snow <http://en.wikipedia.org/wiki/John_Snow_(physician)>' and the Broad Street Pump
