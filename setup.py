@@ -23,9 +23,7 @@ setup(name='pumphandle',
       author_email='Eric.Lofgren@gmail.com',
       license='MIT',
       packages=['pumphandle'],
-      install_requires=[
-          'requests,
-      ])
+      requires=['requests',])
 
 
 
