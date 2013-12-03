@@ -1,5 +1,6 @@
 def NetDrop(url,filename):
-	'''Simple function to check for existence of data file and download file from internet 		source if not otherwise present'''
+	'''Simple function to check for existence of data file and download file from internet
+	source if not otherwise present'''
 	from requests import get
 	import os
 	fullname = os.path.join(os.getcwd(),filename)
