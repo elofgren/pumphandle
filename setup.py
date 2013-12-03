@@ -5,7 +5,7 @@ def readme():
         return f.read()
         
 setup(name='pumphandle',
-      version='0.0.1',
+      version='0.0.2',
       description='Tools for computational epidemiology',
       long_description=readme(),
       keywords ='epidemiology',
